@@ -1,4 +1,4 @@
-﻿int size = 6;
+﻿int size = 611;
 int n = 3;
 string [] arrayOne = new string[size];
 
